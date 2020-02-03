@@ -33,6 +33,9 @@ Working on the same data, we were asked to:
 2. Calculate the percentage of votes each county contributed.
 3. Determine the largest turnout county of the election based on popular vote.
 
+## Challenge Resources
+Please unzip the "Resource" folder before running the code.
+
 ## Challenge Summary
 The analysis of the election show that:
 - There were 369,711 votes cast in the election.
